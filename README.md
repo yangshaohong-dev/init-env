@@ -1,2 +1,2 @@
 # init-env
-Scripts for personal developing environment settings
+Initialize scripts for personal developing environment settings
